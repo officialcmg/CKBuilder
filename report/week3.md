@@ -15,7 +15,7 @@ What I completed
 
 Key learnings
 -------------
-First ... damn the syntax is interesting. I'd say my favorite thing is the :: syntax e.g [here](https://github.com/officialcmg/CKBuilder/blob/08a1ee7a49283b20ebae1439cd841437a213b46d/rustlings/exercises/10_modules/modules3.rs#L6)
+First ... damn the syntax is interesting. I'd say my favorite thing is the :: syntax e.g [here](https://github.com/officialcmg/CKBuilder/blob/main/rustlings/exercises/10_modules/modules3.rs#L6)
 I also love pattern matching syntax
 Like ...
 ```rust
