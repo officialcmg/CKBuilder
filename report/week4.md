@@ -31,16 +31,16 @@ Key learnings
 
 Screenshots:
 
-![alt text](week4-image1.png)
+![alt text](images/week4/image1.png)
 
-![alt text](week4-image2.png)
+![alt text](images/week4/image2.png)
 
-![alt text](week4-image3.png)
+![alt text](images/week4/image3.png)
 
-![alt text](week4-image4.png)
+![alt text](images/week4/image4.png)
 
-![alt text](week4-image5.png)
+![alt text](images/week4/image5.png)
 
-![alt text](week4-image6.png)
+![alt text](images/week4/image6.png)
 
-![alt text](week4-image7.png)
+![alt text](images/week4/image7.png)
