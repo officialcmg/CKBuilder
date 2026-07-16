@@ -3,3 +3,4 @@ node_modules/
 dist/
 
 fiber-hackathon
+.playwright-mcp
