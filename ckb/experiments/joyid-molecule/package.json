@@ -1,0 +1,12 @@
+{
+  "name": "joyid-molecule",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning --experimental-strip-types src/index.ts"
+  },
+  "dependencies": {
+    "@ckb-ccc/core": "^1.16.1"
+  }
+}
